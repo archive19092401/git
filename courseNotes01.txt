@@ -16,7 +16,7 @@ TERMINAL
 - git --version
 - mkdir    create new folder
 - rm -rf newfolder 	remove folder and its contents
-- touch file.csv	create file
+- create file: touch file.csv	
 - rm	remove all files in current dir
 - rm anotherfile.csv
 
